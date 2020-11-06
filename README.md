@@ -10,5 +10,5 @@ https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-gith
 
 To run the Twilo Chat BOT go to : https://assignment1-twilio-chatbot.herokuapp.com/
 
-Its a Twilo Robot who tells you a scary story game. You can go ahead and play the game by saying a "HI" to the robot.
+Its a Twilo Robot who helps you play a scary story game. You can go ahead and play the game by saying a "HI" to the robot. Reply to the questions with the Highlighted values like 'CALL' ,'GO' etc..
 Have a great time :)
